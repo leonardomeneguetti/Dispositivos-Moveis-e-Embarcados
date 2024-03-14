@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercicio1</string>
+    <string name="peso">Peso:</string>
+    <string name="altura">Altura:</string>
+    <string name="enviar">Enviar</string>
+    <string name="message">Seu IMC é de:</string>
+</resources>
