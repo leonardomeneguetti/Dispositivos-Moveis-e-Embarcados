@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Projeto 4</string>
+    <string name="btn_select">Selecionar</string>
+    <string-array name="states">
+        <item>São Paulo</item>
+        <item>Minas Gerais</item>
+        <item>Rio de Janeiro</item>
+        <item>Espírito Santo</item>
+    </string-array>
+</resources>
