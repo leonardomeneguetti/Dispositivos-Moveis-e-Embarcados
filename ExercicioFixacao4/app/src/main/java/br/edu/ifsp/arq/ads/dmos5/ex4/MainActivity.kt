@@ -41,4 +41,9 @@ class MainActivity : AppCompatActivity() {
 
         startActivity(intent)
     }
+
+    private fun getClassName(): String {
+        val nomeClasse = javaClass.name
+        return nomeClasse.substring(nomeClasse.lastIndexOf("."))
+    }
 }
