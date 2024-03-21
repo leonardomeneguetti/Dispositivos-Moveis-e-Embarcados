@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExercicioFixacao4</string>
+    <string name="nome">Nome:</string>
+    <string name="email">E-mail:</string>
+    <string name="telefone">Telefone:</string>
+    <string name="cpf">CPF:</string>
+    <string name="endereco">Endereço:</string>
+    <string name="cidade">Cidade:</string>
+    <string name="enviar">Enviar</string>
+</resources>
