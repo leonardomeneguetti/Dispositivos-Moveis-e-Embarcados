@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">ExercicioFixacao4</string>
+    <string name="cidade">Cidade:</string>
+    <string name="cpf">CPF:</string>
+    <string name="email">E-mail:</string>
+    <string name="endereco">Endereço:</string>
+    <string name="enviar">Enviar</string>
+    <string name="nome">Nome:</string>
+    <string name="telefone">Telefone:</string>
+    <style name="Base.Theme.ExercicioFixacao4" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.ExercicioFixacao4" parent="Base.Theme.ExercicioFixacao4"/>
+</resources>

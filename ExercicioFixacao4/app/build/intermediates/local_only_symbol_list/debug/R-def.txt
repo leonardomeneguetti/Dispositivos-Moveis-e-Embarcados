@@ -1,0 +1,34 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btn_env
+id edt_cid
+id edt_cpf
+id edt_email
+id edt_end
+id edt_nome
+id edt_tel
+id txt_cid
+id txt_cpf
+id txt_email
+id txt_end
+id txt_nome
+id txt_tel
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string cidade
+string cpf
+string email
+string endereco
+string enviar
+string nome
+string telefone
+style Base.Theme.ExercicioFixacao4
+style Theme.ExercicioFixacao4
+xml backup_rules
+xml data_extraction_rules
