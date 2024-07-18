@@ -151,7 +151,7 @@ class UsersRepository (application: Application) {
 
         const val PASSWORD_RESET = "accounts:sendOobCode"
 
-        const val KEY = "?key=AIzaSyC56uxDEy-6AdjeEt5bTkSObYvAKDTPOME" // pegar nas Configurações do Projeto no Firebase - valor parecido com AIzaSyBxFjit4FD8NN5Mx8hTFQQxeVA1Pv2OUag
+        const val KEY = "?key=AIzaSyAi3XuzMe4I1zWe5XF2DdCubRo9nh8PjvY" // pegar nas Configurações do Projeto no Firebase - valor parecido com AIzaSyBxFjit4FD8NN5Mx8hTFQQxeVA1Pv2OUag
 
     }
 
